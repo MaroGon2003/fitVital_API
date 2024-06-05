@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fitVital_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e2ffbeb07f998e297b9d5535b896102bc906d75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4772170c0a8a406613db685375ffc1c62741e222")]
 [assembly: System.Reflection.AssemblyProductAttribute("fitVital_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fitVital_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
