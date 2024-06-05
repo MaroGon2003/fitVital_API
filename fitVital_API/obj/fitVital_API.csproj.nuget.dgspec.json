@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\equipo\\OneDrive\\Escritorio\\ITM\\Semestre 5\\Aplicaciones y servisios web\\fitVital_API\\fitVital_API\\fitVital_API.csproj": {}
+    "C:\\Users\\David Prada\\Desktop\\U 2024-1\\Aplicaciones y servicios web\\ProjectFitVital\\fitVital_API\\fitVital_API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\equipo\\OneDrive\\Escritorio\\ITM\\Semestre 5\\Aplicaciones y servisios web\\fitVital_API\\fitVital_API\\fitVital_API.csproj": {
+    "C:\\Users\\David Prada\\Desktop\\U 2024-1\\Aplicaciones y servicios web\\ProjectFitVital\\fitVital_API\\fitVital_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\equipo\\OneDrive\\Escritorio\\ITM\\Semestre 5\\Aplicaciones y servisios web\\fitVital_API\\fitVital_API\\fitVital_API.csproj",
+        "projectUniqueName": "C:\\Users\\David Prada\\Desktop\\U 2024-1\\Aplicaciones y servicios web\\ProjectFitVital\\fitVital_API\\fitVital_API.csproj",
         "projectName": "fitVital_API",
-        "projectPath": "C:\\Users\\equipo\\OneDrive\\Escritorio\\ITM\\Semestre 5\\Aplicaciones y servisios web\\fitVital_API\\fitVital_API\\fitVital_API.csproj",
-        "packagesPath": "C:\\Users\\equipo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\equipo\\OneDrive\\Escritorio\\ITM\\Semestre 5\\Aplicaciones y servisios web\\fitVital_API\\fitVital_API\\obj\\",
+        "projectPath": "C:\\Users\\David Prada\\Desktop\\U 2024-1\\Aplicaciones y servicios web\\ProjectFitVital\\fitVital_API\\fitVital_API.csproj",
+        "packagesPath": "C:\\Users\\David Prada\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David Prada\\Desktop\\U 2024-1\\Aplicaciones y servicios web\\ProjectFitVital\\fitVital_API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\equipo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\David Prada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,32 +38,17 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[6.0.22, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.22, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.22, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.22, )"
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
@@ -84,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }
